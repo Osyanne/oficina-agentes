@@ -1,0 +1,6 @@
+{
+  "name": "osyanne",
+  "description": "Mods de Claude Code de Osyanne.",
+  "owner": { "name": "Osyanne" },
+  "plugins": [{ "name": "oficina-agentes", "source": "./" }]
+}

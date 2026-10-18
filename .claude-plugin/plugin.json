@@ -1,0 +1,7 @@
+{
+  "name": "oficina-agentes",
+  "version": "0.1.0",
+  "description": "Muestra en directo, encima del prompt, cada agente de la sesión como un personaje y lo que está haciendo.",
+  "author": { "name": "Osyanne" },
+  "types": "./types/index.d.ts"
+}
